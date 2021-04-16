@@ -31,8 +31,9 @@ Journal
 Conferences 
 ======
 <ul>
-<li><span class="label label-success"> Conference</span> <a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/1811.03805">"A Sufficient Condition for Small-Signal Stability and Construction of Robust Stability Region"</a>, Parikshit Pareek, Konstantin Turitsyn, Krishnamurthy Dvijotham, and Hung D. Nguyen, <i> IEEE Power and Energy Society General Meeting </i>, August 4-8 2019, Atlanta, GA, USA.</li>
-<li><span class="label label-success"> Conference</span> <a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/1811.03805">"Linear OPF with Linearization of Quadratic Branch Flow Limits"</a>, Parikshit Pareek, and Ashu Verma, <i> IEEMA Engineer Infinite Conference (eTechNxT) </i>, March 13-14 2018, Noida, UP, India.</li>
+<li> <a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/2011.11849">"Health-Focused Optimal Power Flow"</a>, Logesh Kumar, Parikshit Pareek, Sivakumar Nadarajan, Souvik Dasgupta, Amit Gupta, Hung D. Nguyen <i> IEEE Power and Energy Society ISGT </i>, 2021.</li>
+<li> <a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/1811.03805">"A Sufficient Condition for Small-Signal Stability and Construction of Robust Stability Region"</a>, Parikshit Pareek, Konstantin Turitsyn, Krishnamurthy Dvijotham, and Hung D. Nguyen, <i> IEEE Power and Energy Society General Meeting </i>, August 4-8 2019, Atlanta, GA, USA.</li>
+<li> <a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/1811.03805">"Linear OPF with Linearization of Quadratic Branch Flow Limits"</a>, Parikshit Pareek, and Ashu Verma, <i> IEEMA Engineer Infinite Conference (eTechNxT) </i>, March 13-14 2018, Noida, UP, India.</li>
 
 <ul>
 
