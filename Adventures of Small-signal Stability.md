@@ -10,6 +10,6 @@ by no means it is gurenteed to be correct mathematically or logically. For that 
 First time I heard of small-signal stability was when I was taking an undergraduate course on **Control Systems**. The book (some book) said if you have $A$
 
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \theta} = -1">
+<img src="https://render.githubusercontent.com/render/math?math= \max \lambda(A)">
 
 
