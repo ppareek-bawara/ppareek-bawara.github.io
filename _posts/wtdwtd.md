@@ -1,12 +1,13 @@
 ---
-title: 'Why They Do What They Do?'
-date: 1/5/2020
-permalink: /posts/wtdwtd/
+title: 'Blog Post number 1'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
   - category1
   - category2
 ---
+
 This post is about my friends motivation on doing research. _Why they chose to be travel on these unknown paths? What keeps them going when they struggle to find what they looking for?_ Or even sometimes when they are looking for what to look for. I also try to touch upon their journey so far.
 
 The stories are told here based on what my friends want to tell. The start and end points for stories are chosen by them. I am merely a human typewriter with poor grammatical knowledge.
