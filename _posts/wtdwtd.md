@@ -1,7 +1,7 @@
 ---
 title: 'Why They Do What They Do?'
 date: 1/5/2020
-permalink: /posts/2020/05/blog-post-1/
+permalink: /posts/wtdwtd
 tags:
   - cool posts
   - category1
