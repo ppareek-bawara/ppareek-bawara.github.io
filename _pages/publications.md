@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 Pre-Prints
 ======
-<li><a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/1911.12001">"Small-Signal Stability Constrained Optimal Power Flow: A Convexification Approach"</a> Parikshit Pareek, and Hung D. Nguyen</li></li>
+<li><a style="color:#0000FF" target="_blank" href="https://arxiv.org/pdf/1911.12001">"Small-Signal Stability Constrained Optimal Power Flow: A Convexification Approach"</a> Parikshit Pareek, and Hung D. Nguyen</li>
 <li><a style="color:#0000FF"  target="_blank" href="https://arxiv.org/pdf/1911.03093">"Non-parametric Probabilistic Load Flow using Gaussian Process Learning"</a> Parikshit Pareek, Chuan Wang, and Hung D. Nguyen </li>
 
 
