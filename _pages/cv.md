@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, Nanyang Technological Univerity Singapore, 2018-2022 (expected)
+* M.Tech in Energy Studies, Indian Institute of Technology Delhi, 2018
+* B.Tech in Electrical Engineering, Rajasthan Technical University, 2015
 
 Work experience
 ======
